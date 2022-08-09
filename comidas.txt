@@ -5,3 +5,5 @@ Zanahoria
 Aceituna
 Kiwi
 Pomelo
+Banana
+Sandwich
