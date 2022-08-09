@@ -5,4 +5,5 @@ Zanahoria
 Aceituna
 Kiwi
 Pomelo
-AUTOOO AGREGO CAMBIOS MIENTRAS EL OTRO TRABAJA EN SU RAMA NUEVA LOCAL
+Banana
+Sandwich
